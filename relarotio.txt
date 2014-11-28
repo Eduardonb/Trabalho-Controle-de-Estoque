@@ -1,0 +1,11 @@
+Total em estoque de Amora = 40.449600000000004
+
+Total em estoque de Alface = 40.449600000000004
+
+Total em estoque de Abacate = 52.7076
+
+Total em estoque de Melão = 7.1289
+
+Total em estoque de Sabonete = 3025.0
+
+Total em estoque = 3165.7357
